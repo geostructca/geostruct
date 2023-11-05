@@ -9,7 +9,7 @@
 
 <channel>
 	<title>admin</title>
-	<atom:link href="http://10.0.0.190/author/admin/feed/?simply_static_page=6204" rel="self" type="application/rss+xml" />
+	<atom:link href="http://10.0.0.190/author/admin/feed/?simply_static_page=6672" rel="self" type="application/rss+xml" />
 	<link>https://www.geostruct.ca/</link>
 	<description>Geostruct</description>
 	<lastBuildDate>Mon, 23 Oct 2023 16:29:55 +0000</lastBuildDate>
