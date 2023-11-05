@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>GeoStruct.CA</title>
-	<atom:link href="http://10.0.0.190/feed/?simply_static_page=3851" rel="self" type="application/rss+xml" />
+	<title></title>
+	<atom:link href="http://10.0.0.190/feed/?simply_static_page=4312" rel="self" type="application/rss+xml" />
 	<link>https://geostructca.github.io/geostruct/</link>
-	<description></description>
+	<description>Geostruct</description>
 	<lastBuildDate>Mon, 23 Oct 2023 16:29:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>https://geostructca.github.io/geostruct/wp-content/uploads/2023/10/cropped-cropped-Logo-removebg-preview-32x32.png</url>
+	<title></title>
+	<link>https://geostructca.github.io/geostruct/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hello world!</title>
 		<link>https://geostructca.github.io/geostruct/2023/10/23/hello-world/</link>
