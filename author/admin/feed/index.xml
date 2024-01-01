@@ -9,7 +9,7 @@
 
 <channel>
 	<title>admin</title>
-	<atom:link href="http://10.0.0.190/author/admin/feed/?simply_static_page=6672" rel="self" type="application/rss+xml" />
+	<atom:link href="http://10.0.0.190/author/admin/feed/?simply_static_page=7140" rel="self" type="application/rss+xml" />
 	<link>https://www.geostruct.ca/</link>
 	<description>Geostruct</description>
 	<lastBuildDate>Mon, 23 Oct 2023 16:29:55 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
 	<url>https://www.geostruct.ca/wp-content/uploads/2023/10/cropped-cropped-Logo-removebg-preview-32x32.png</url>
